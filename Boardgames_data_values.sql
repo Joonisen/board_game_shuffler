@@ -1,8 +1,8 @@
 INSERT INTO board_game
 	VALUES 
-		(1001, 'Terraforming Mars', 2016, '1st', 1, 5, 120, 3.26),
+	(1001, 'Terraforming Mars', 2016, '1st', 1, 5, 120, 3.26),
         (1002, 'Terraforming Mars: Ares Expedition', 2021, '1st', 1, 4, 60, 2.92),
-		(1003, 'The Lord of the Rings: Journeys in Middle-Earth', 2019, '1st', 1, 5, 120, 2.63),
+	(1003, 'The Lord of the Rings: Journeys in Middle-Earth', 2019, '1st', 1, 5, 120, 2.63),
         (1004, 'Star Wars: Rebellion', 2016, '1st', 2, 4, 240, 3.73),
         (1005, 'Arkham Horror', 2005, '2nd', 1, 8, 240, 3.58),
         (1006, 'Arkham Horror', 2018, '3rd', 1, 6, 180, 3.33),
@@ -20,12 +20,12 @@ INSERT INTO board_game
 
 INSERT INTO board_game_expansion
 	VALUES 
-		(4001, 'Venus Next', 2017, 1001),
-		(4002, 'Hellas & Elysium', 2017, 1001),
-		(4003, 'Prelude', 2018, 1001),
-		(4004, 'Colonies', 2018, 1001),
-		(4005, 'Turmoil', 2019, 1001),
-		(4006, 'Villains of Eriador Figure pack', 2019, 1003),
+	(4001, 'Venus Next', 2017, 1001),
+	(4002, 'Hellas & Elysium', 2017, 1001),
+	(4003, 'Prelude', 2018, 1001),
+	(4004, 'Colonies', 2018, 1001),
+	(4005, 'Turmoil', 2019, 1001),
+	(4006, 'Villains of Eriador Figure pack', 2019, 1003),
         (4007, 'Shadowed Paths', 2020, 1003),
         (4008, 'Dwellers in Darkness Figure Pack', 2020, 1003),
         (4009, 'Spreading War', 2021, 1003),
@@ -46,14 +46,14 @@ INSERT INTO board_game_expansion
         (4024, 'Cities', 2012, 1007),
         (4025, 'Babel', 2014, 1007),
         (4026, 'Armada', 2018, 1007),
-		(4027, 'Cities', 2020, 1008),
+	(4027, 'Cities', 2020, 1008),
         (4028, 'Armada', 2020, 1008),
         (4029, 'Leaders', 2021, 1008),
         (4030, 'Edifice', 2023, 1008),
         (4031, 'Farmers of the Moor', 2009, 1009),
         (4032, 'The Goodies', 2010, 1009),
         (4033, 'Expansion for 5 and 6 Players', 2016, 1010),        
-		(4034, 'Farmers of the Moor', 2018, 1010),
+	(4034, 'Farmers of the Moor', 2018, 1010),
         (4035, 'Bubulcus Deck', 2018, 1010),
         (4036, 'Corbarius Deck', 2019, 1010),
         (4037, 'Dulcinaria Deck', 2020, 1010),
@@ -76,7 +76,7 @@ INSERT INTO board_game_expansion
 
 INSERT INTO designer
 	VALUES 
-		(2001, 'Fryxelius', 'Jacob', 'Sweden'),
+	(2001, 'Fryxelius', 'Jacob', 'Sweden'),
         (2002, 'Engelstein', 'Sydney', 'N/A'),
         (2003, 'Little', 'Nick', 'N/A'),
         (2004, 'Hajek', 'Nathan', 'N/A'),
@@ -93,14 +93,14 @@ INSERT INTO designer
 
 INSERT INTO designer_group
 	VALUES
-		(2001, 1001), (2001, 1002), (2002, 1002), (2003, 1002), (2004, 1003), (2005, 1003), (2006, 1004), (2007, 1005), 
-		(2008, 1005), (2007, 1006), (2008, 1006), (2009, 1006), (2010, 1007), (2010, 1008), (2011, 1009), (2011, 1010), 
-		(2011, 1011), (2011, 1012), (2011, 1013), (2012, 1014), (2013, 1014), (2012, 1015), (2012, 1016) 
+	(2001, 1001), (2001, 1002), (2002, 1002), (2003, 1002), (2004, 1003), (2005, 1003), (2006, 1004), (2007, 1005), 
+	(2008, 1005), (2007, 1006), (2008, 1006), (2009, 1006), (2010, 1007), (2010, 1008), (2011, 1009), (2011, 1010), 
+	(2011, 1011), (2011, 1012), (2011, 1013), (2012, 1014), (2013, 1014), (2012, 1015), (2012, 1016) 
 ;
 
 INSERT INTO publisher
 	VALUES 
-		(3001, 'FryxGames', 'Sweden'),
+	(3001, 'FryxGames', 'Sweden'),
         (3002, 'Stronghold Games', 'USA'),
         (3003, 'Fantasy Flight Games', 'USA'),
         (3004, 'Asmodee', 'France'),
@@ -116,7 +116,7 @@ INSERT INTO publisher
 
 INSERT INTO publisher_group
 	VALUES
-		(3001, 1001), (3002, 1001), (3006, 1001), (3012, 1001), (3001, 1002), (3002, 1002), (3012, 1002), (3003, 1003), 
+	(3001, 1001), (3002, 1001), (3006, 1001), (3012, 1001), (3001, 1002), (3002, 1002), (3012, 1002), (3003, 1003), 
         (3004, 1003), (3003, 1004), (3004, 1004), (3003, 1005), (3004, 1005), (3012, 1005), (3003, 1006), (3004, 1006), 
         (3012, 1006), (3004, 1007), (3005, 1007), (3006, 1007), (3004, 1008), (3005, 1008), (3006, 1008), (3007, 1009), 
         (3008, 1009), (3009, 1009), (3006, 1010), (3007, 1010), (3009, 1010), (3007, 1011), (3009, 1011), (3010, 1012), 
@@ -126,7 +126,7 @@ INSERT INTO publisher_group
 
 INSERT INTO player_profile
 	VALUES
-		(8001, 'Joonis', 'Espoo', 'Main user'),
+	(8001, 'Joonis', 'Espoo', 'Main user'),
         (8002, 'Jeenis', 'Espoo', 'Call at 123123 whenever'),
         (8003, 'Jöönis', 'Espoo', 'Hates all games? Don\'t invite lol'),
         (8004, 'Jaanis', 'Helsinki', 'message on whatsapp'),
@@ -139,7 +139,7 @@ INSERT INTO player_profile
 
 INSERT INTO player_status
 	VALUES
-		(1014, 8001, 1, 1, 8.5, 3.70),
+	(1014, 8001, 1, 1, 8.5, 3.70),
         (1014, 8002, 1, 0, 8.2, 3.60),
         (1014, 8003, 1, 0, 6.5, 4.70),
         (1014, 8004, 1, 0, 7.5, 3.20),
@@ -157,7 +157,7 @@ INSERT INTO player_status
 ;
 INSERT INTO play_session
 	VALUES
-		(1014, 9001, 20230202, 200),
+	(1014, 9001, 20230202, 200),
         (1014, 9002, 20230203, 150),
         (1006, 9003, 20230205, 240),
         (1006, 9004, 20230207, 200),
@@ -167,8 +167,8 @@ INSERT INTO play_session
 
 INSERT INTO player_in_play_session
 	VALUES
-		(8001, 9001), (8002, 9001), (8003, 9001), (8004, 9001),
-		(8001, 9002), (8002, 9002), (8004, 9002),
+	(8001, 9001), (8002, 9001), (8003, 9001), (8004, 9001),
+	(8001, 9002), (8002, 9002), (8004, 9002),
         (8001, 9003), (8005, 9003), (8006, 9003), (8007, 9003),
         (8001, 9004), (8002, 9004), (8003, 9004), (8005, 9004), (8006, 9004), (8009, 9004),
         (8001, 9005), (8002, 9005), (8004, 9005),
@@ -177,6 +177,6 @@ INSERT INTO player_in_play_session
 
 INSERT INTO play_session_expansion
 	VALUES
-		(4042, 9001), (4043, 9001), (4044, 9001), (4045, 9001),
+	(4042, 9001), (4043, 9001), (4044, 9001), (4045, 9001),
         (4020, 9003), (4021, 9003), (4022, 9003)
 	;
