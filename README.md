@@ -1,5 +1,6 @@
 # board_game_shuffler
 First SQL school project, just to learn the intricacies of databases.
+Created in and used in MySQL workbench, so no FULL JOINs or whatnot.
 The main idea of this database is web scraping a lot of data from boardgamegeek.com and making use of it through an app. 
 Maybe I'll create a web scraping script and some mockup app in the future!
 Some search queries are quite odd, I wrote them mostly for experimentation.
