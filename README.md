@@ -10,6 +10,7 @@ Maybe I'll create a web scraping script and some mockup app in the future!
 Some search queries are quite odd, I wrote them mostly for experimentation.
 
 Here's some info of the mockup app:
+
 This is an app made for anyone interested in finding a suitable board game for any kind of situation.
 The app’s database contains info on all board games ever made (web scraped from boardgamegeek.com, so someone else did that work, heh)
 You can create your own lists of board games, e.g. what games you own, or by category, e.g. deck-building games or co-operative games etc.
