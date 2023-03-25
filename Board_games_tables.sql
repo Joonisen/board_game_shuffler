@@ -1,5 +1,4 @@
 /* UNCOMMENT THIS ONLY IF YOU NEED TO CREATE THIS DATABASE! 
-In MySQL workbench the tables will be added to your current database, no need for a new database
 
 CREATE DATABASE board_game_shuffler;
 USE board_game_shuffler;
