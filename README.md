@@ -11,7 +11,7 @@ Some search queries are quite odd, I wrote them mostly for experimentation.
 
 Here's some info of the mockup app:
 
-This is an app made for anyone interested in finding a suitable board game for any kind of situation.
+This is an app made for anyone interested in finding a suitable board game for any kind of situation.<br>
 The app’s database contains info on all board games ever made (web scraped from boardgamegeek.com, so someone else did that work, heh)
 You can create your own lists of board games, e.g. what games you own, or by category, e.g. deck-building games or co-operative games etc.
 It’s interface would allow you to input which games you have available to play, how many people are going to play, how much time you have, and how complex of a game you would like to play. The app will then give you examples of board games according to your criteria.
