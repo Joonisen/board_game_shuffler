@@ -5,7 +5,7 @@ Original schema made using draw.io, see "board_game_shuffler_schema.pdf"<br><br>
 The main idea of this database is making use of a whole lot of web scraped data from boardgamegeek.com and making sense of it through an app. 
 Maybe I'll create a web scraping script and some mockup app in the future!<br>
 Some search queries are quite odd, I wrote them mostly for experimentation.<br><br>
-Here's some info of the mockup app:<br>
+Here's some info of the mockup app "Board game shuffler":<br>
 This is an app made for anyone interested in finding a suitable board game for any kind of situation.<br>
 The app’s database contains info on all board games ever made (web scraped from boardgamegeek.com, so someone else did that work, heh)<br>
 You can create your own lists of board games, e.g. what games you own, or by category, e.g. deck-building games or co-operative games etc.<br>
