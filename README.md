@@ -1,10 +1,10 @@
 # board_game_shuffler
-First SQL school project, just to learn the intricacies of databases.<br>
-Created in and used in MySQL workbench, so no FULL JOINs or whatnot.<br>
-Original schema made using draw.io, see "board_game_shuffler_schema.pdf"<br>
+First SQL school project, just to learn the intricacies of databases.<br><br>
+Created in and used in MySQL workbench, so no FULL JOINs or whatnot.<br><br>
+Original schema made using draw.io, see "board_game_shuffler_schema.pdf"<br><br>
 The main idea of this database is web scraping a lot of data from boardgamegeek.com and making use of it through an app. 
 Maybe I'll create a web scraping script and some mockup app in the future!<br>
-Some search queries are quite odd, I wrote them mostly for experimentation.<br>
+Some search queries are quite odd, I wrote them mostly for experimentation.<br><br>
 Here's some info of the mockup app:<br>
 This is an app made for anyone interested in finding a suitable board game for any kind of situation.<br>
 The app’s database contains info on all board games ever made (web scraped from boardgamegeek.com, so someone else did that work, heh)<br>
