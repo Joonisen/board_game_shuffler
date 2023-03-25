@@ -1,5 +1,5 @@
 # board_game_shuffler
-First SQL school project, just to learn some intricacies of databases.<br><br>
+First database school project, just to learn some intricacies of databases.<br><br>
 Written and used in MySQL workbench, so no FULL JOINs or whatnot.<br><br>
 Original schema made using draw.io, see "board_game_shuffler_schema.pdf"<br><br>
 The main idea of this database is making use of a whole lot of web scraped data from boardgamegeek.com and making sense of it through an app. 
