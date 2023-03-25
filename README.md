@@ -14,4 +14,5 @@ The idea is to minimize the hassle of trying to remember which games can be play
 There will also be an option to search games by designers if the user takes a liking to a certain designer’s games. I.e this is also an app for finding new exciting games to try out!<br>
 It also allows the user to setup a profile, where they can record their own playsessions, who they’ve played with, and creating their own board game collection for easy access during search queries.<br>
 Target group is simply the growing population of people intrested in board games.<br>
-Because all the actual info is taken from boardgamegeek.com and all the games are intellectual property, there shall be no opportunity for making money with this app, it’s purely for convenience!
+Because all the actual info is taken from boardgamegeek.com and all the games are intellectual property, there shall be no opportunity for making money with this app, it’s purely for convenience!<br><br>
+All of this can technically already be done on boardgamegeek.com AND they have forums and comments and so on, sooo not too much would be gained in making all this available through an app.
