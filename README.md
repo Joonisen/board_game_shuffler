@@ -2,7 +2,7 @@
 First SQL school project, just to learn some intricacies of databases.<br><br>
 Written and used in MySQL workbench, so no FULL JOINs or whatnot.<br><br>
 Original schema made using draw.io, see "board_game_shuffler_schema.pdf"<br><br>
-The main idea of this database is web scraping a lot of data from boardgamegeek.com and making use of it through an app. 
+The main idea of this database is making use of a whole lot of web scraped data from boardgamegeek.com and making sense of it through an app. 
 Maybe I'll create a web scraping script and some mockup app in the future!<br>
 Some search queries are quite odd, I wrote them mostly for experimentation.<br><br>
 Here's some info of the mockup app:<br>
